@@ -1,0 +1,42 @@
+body {
+  padding-top: 60px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Optima, Helvetica, Arial, sans-serif;
+}
+
+p {
+  margin-top: 16px;
+  font-size: 110%;
+  font-family: Palatino Linotype, Georgia, serif;
+}
+
+.text {
+  font-family: Palatino Linotype, Georgia, serif;
+}
+
+#mlbutton {
+  font-size: 120%;
+  font-weight: bold; font-family: Palatino Linotype, Georgia, serif;
+}
+
+.btn-primary, {
+  background-color: #ff0000;
+}
+
+label {
+  font-size: 100%;
+  font-family: Palatino Linotype, Georgia, serif;
+}
+
+input[type=email] {
+  font-size: 100%;
+  font-family: Palatino Linotype, Georgia, serif;
+}
+
+input[type=submit] {
+  font-size: 100%;
+  font-family: Palatino Linotype, Georgia, serif;
+  font-weight: bold;
+}
