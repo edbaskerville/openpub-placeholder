@@ -31,11 +31,13 @@ label {
 }
 
 input[type=email] {
+  vertical-align: top;
   font-size: 100%;
   font-family: Palatino Linotype, Georgia, serif;
 }
 
 input[type=submit] {
+  vertical-align: top;
   font-size: 100%;
   font-family: Palatino Linotype, Georgia, serif;
   font-weight: bold;
